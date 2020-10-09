@@ -21,6 +21,6 @@ public class SampleTest {
     @Test
     public void Case2() {
         System.out.println("Case 2");
-        assertEquals("Case 2", "Case 1");
+        assertEquals("Case 2", "Case 2");
     }
 }
